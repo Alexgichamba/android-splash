@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AG Calculator</string>
+    <string name="fNum_hint">First Number</string>
+    <string name="sNum_hint">Second Number</string>
+
+    <string name="addition">Add</string>
+    <string name="subtraction">Sub</string>
+    <string name="division">Divide</string>
+    <string name="multiplication">Product</string>
+    <string name="Remainder">Remainder</string>
+    <string name="Average">Average</string>
+    <string name="sine">Sin</string>
+    <string name="cosine">Cos</string>
+    <string name="tangent">Tan</string>
+</resources>
